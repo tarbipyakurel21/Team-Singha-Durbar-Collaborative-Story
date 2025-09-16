@@ -1,5 +1,4 @@
-# Singha-Durbar
-Group Project for CSC 317 Software Development Foundations
-Tarbi Pyakurel
-Krish Karki
-Yugesh Thapa
+# The Collaborative Story
+
+
+It was a dark and stormy night. The rain pattered against the window, but a lone cursor blinked on a screen, ready to write the next chapter.
